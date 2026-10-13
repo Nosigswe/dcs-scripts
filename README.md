@@ -1,5 +1,7 @@
 # dcs-scripts
 
+**English** | [Svenska](README.sv.md)
+
 ## Getting started
 
 You need [Git](https://git-scm.com/downloads) and a [GitHub](https://github.com) account.
